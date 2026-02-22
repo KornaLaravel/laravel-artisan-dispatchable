@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-artisan-dispatchable` will be documented in this file.
 
+## 1.6.0 - 2026-02-22
+
+Add Laravel 13.x support
+
 ## 1.5.2 - 2025-02-21
 
 ### What's Changed
